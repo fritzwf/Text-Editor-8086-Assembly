@@ -1,0 +1,9 @@
+In order to assemble it just hit a key after you are done reading this note.  The editor is 10 pages and is static.  
+
+Valid keys are:
+
+    Esc, F1, F2, F3, Insert, Delete,
+    Home, End, Page Up, Page Down, Up Arrow,
+    Down Arrow, Left and Right Arrow, and Tab.
+
+ 
